@@ -1,4 +1,4 @@
-# SecureFlow – DevSecOps Pipeline Implementation for Tic Tac Toe Game
+# SecureFlow – DevOps Pipeline Implementation for Tic Tac Toe Game
 
 ## 📌 Project Overview
 SecureFlow demonstrates the implementation of a **DevSecOps pipeline** for a simple **Tic Tac Toe** game built using modern web technologies.  
